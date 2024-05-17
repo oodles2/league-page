@@ -61,6 +61,10 @@
 		color: #777;
 	}
 
+	.copyright {
+        font-size: 14px; /* Adjust the font size as needed */
+  	}
+
 	#navigation {
 		margin: 0 0 2em;
 	}
