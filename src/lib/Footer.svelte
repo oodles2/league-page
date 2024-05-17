@@ -62,7 +62,7 @@
 	}
 
 	.copyright {
-        font-size: 14px; /* Adjust the font size as needed */
+        font-size: 4px; /* Adjust the font size as needed */
   	}
 
 	#navigation {
