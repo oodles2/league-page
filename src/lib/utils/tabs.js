@@ -65,7 +65,7 @@ export const tabs = [
             //    icon: 'history_edu',
             //    label: 'Constitution',
             //    dest: '/constitution',
-            },
+            //},
             {
                 icon: 'sports_football',
                 label: 'Go to Sleeper',
