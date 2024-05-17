@@ -1,4 +1,4 @@
-//(<script>
+(<script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
@@ -300,4 +300,4 @@
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
     <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
 
-</div>)
+</div>
