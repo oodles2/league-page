@@ -62,8 +62,12 @@
 	}
 
 	.copyright {
-        font-size: 4px; /* Adjust the font size as needed */
+        font-size: 8px; /* Adjust the font size as needed */
   	}
+
+	.creator {
+	font-size: 8px; /* Adjust the font size as needed */
+	}
 
 	#navigation {
 		margin: 0 0 2em;
